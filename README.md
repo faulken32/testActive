@@ -16,5 +16,4 @@ curl -X POST --location "http://localhost:8080/api/bill" \
           \"type\" : \"CAR\",
           \"start\" : \"2017-12-27T09:05:30.523\",
           \"end\"  : \"2017-12-27T11:05:30.523\"
-        
         }"
